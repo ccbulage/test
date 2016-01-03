@@ -9,5 +9,6 @@ public class Test2 {
 		System.out.println("好好好！看看修改后，不对文件使用ignore会不会有提示。。。");
 		System.out.println("好好好！看看重新断开后再连接，提交时会不会有提示。。。  ");
 		System.out.println("好好好！测试commit");
+		System.out.println("好好好！第二次测试commit");
 	}
 }
